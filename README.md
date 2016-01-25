@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is code for [kaggle's walmart trip prediction][1]. The final model is a 2-level stacking ensemble in the usual fasion.
+This is code for [kaggle's walmart trip prediction][1]. The final model is a 2-level stacking ensemble in the usual fasion. The final result ranked 20th/~1000.
 
 Feature Engineering:
 * I treat all the fineline and department desc using bag of words for each trip. Then I generate a vector for each trip.
